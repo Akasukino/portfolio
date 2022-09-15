@@ -1,10 +1,10 @@
 <div class="change_log">
     <h2>Mise à jour</h2>
     <div class="features">
-        <h3>Features / Prochainement</h3>
+        <h3>Prochainement</h3>
         <ul>
-            <li>- Création du formulaire de contact</li>
             <li>- Rendre le site dynamique avec PHP et javaScript</li>
+            <li>- Création du formulaire de contact</li>
         </ul>
     </div>
     <div class="version">
@@ -22,7 +22,7 @@
                                 - Body ( Corps du site )
                             </li>
                             <li>
-                                - Footer ( pied de pages )
+                                - Footer ( pied de page )
                             </li>
                             <li>
                                 - Warning ( Message d'alerte )

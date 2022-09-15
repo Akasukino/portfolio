@@ -3,6 +3,9 @@ body {
     text-align: center;
 }
 
+h2,h3,h4{
+    text-decoration: underline;
+}
 header {
     text-align: center;
     border-bottom: 2px solid goldenrod;
@@ -35,7 +38,6 @@ ul {
 }
 h1{
     text-align: center;
-    text-decoration: underline;
     color:#00b3ff;
 }
 
@@ -46,9 +48,6 @@ section{
     padding: 1%;
     background-color:grey;
     border-radius: 30px;
-}
-section h2{
-    text-decoration: underline;
 }
 span{
     color:#0dcaf0;
@@ -71,7 +70,6 @@ span{
     margin: 10px;
 }
 .footer h3{
-    text-decoration: underline;
     color:#0056b3;
 }
 .nav-site-footer, .nav-social-footer{
@@ -90,7 +88,6 @@ span{
 
 }
 .warning h2{
-    text-decoration: underline;
     color: yellow;
 }
 .warning p{
@@ -109,8 +106,4 @@ span{
 }
 .change_log h2{
     text-align: center;
-}
-.change_log h2,h3,h4{
-    text-decoration: underline;
-    color:;
 }
