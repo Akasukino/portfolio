@@ -10,6 +10,7 @@
             <a href="https://www.facebook.com/ThierryPadilla38" target="_blank"><i
                         class="fa-brands fa-facebook"></i></a>
             <a href="https://www.linkedin.com/in/thierry-padilla" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
+            <a href="https://www.discordapp.com/users/518714656680968193" target="_blank"><i class="fa-brands fa-discord""></i></a>
         </div>
         <p>Ce site a été créé par Moi-même, Thierry Padilla, et toutes informations sur cette page sont personnelles et
             en droit d'auteur &copy;opyright.</p>

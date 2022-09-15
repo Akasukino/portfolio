@@ -6,6 +6,7 @@ body {
 
 h2,h3,h4{
     text-decoration: underline;
+    color:#0056b3;
 }
 header {
     text-align: center;
@@ -26,6 +27,14 @@ nav > ul > li {
     background-color: #1a1e21;
     border: 3px solid white;
     border-radius: 50%;
+}
+nav > ul > li:hover{
+    background-color: white;
+    border: 3px solid lime;
+    border-radius: 50%;
+}
+nav a:hover{
+    color:#0d6efd;
 }
 nav a{
     text-decoration: none;
@@ -70,15 +79,15 @@ span{
     color:#00b3ff;
     margin: 10px;
 }
-.footer h3{
-    color:#0056b3;
-}
 .nav-site-footer, .nav-social-footer{
     position: center;
     border: 3px solid lime;
-    display: block;
-    margin: 10px 40% 10px 40%;
-    padding:  0 0 15px 0;
+    display: inline-block;
+    margin: 1% 2% 1% 2%;
+    padding:  0 1% 1% 1%;
+}
+i:hover{
+    color:red;
 }
 .warning{
     text-align: center;
@@ -113,12 +122,38 @@ span{
     color:mediumblue;
 }
 .form_style{
-    border: 2px solid lime;
-    margin: 1% 40%;
+    border: 3px solid lime;
+    margin: 1% 30%;
 }
 .form_style div{
-    padding: 2%;
+    padding: 3%;
 }
 .form_style label{
     display: block;
+}
+.form_style input{
+    width: 300px;
+    text-align: center;
+}
+.form_style button{
+    background-color: #1a1e21;
+    border: 3px solid white;
+    border-radius: 20px;
+    color:darkred;
+    padding: 2%;
+    font-size: 1.3em;
+}
+.form_style button:hover{
+    background-color: white;
+    border: 3px solid lime;
+    padding: 2%;
+    font-size: 1.3em;
+    border-radius: 20px;
+    color:#0d6efd;
+}
+textarea, input{
+    border: 3px solid lime;
+}
+textarea{
+    resize: none;
 }
