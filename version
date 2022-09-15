@@ -1,0 +1,8 @@
+Version 1.0 :
+- Création de 5 templates PHTML ( HTML dans une page PHP) et mise en forme CSS:
+
+    - Header ( Barre de navigation )
+    - Body ( Corps du site )
+    - Footer ( Pied de page )
+    - Warning ( Message d'alerte )
+    - Change log ( Edit des Prochaines créations et Version du site )
