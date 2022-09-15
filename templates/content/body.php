@@ -57,11 +57,11 @@
             <p>je suis un grand joueur de jeu vidéo. Mon jeux préferé est Rocket League, actuellement Grand Champion 2
                 et visant à devenir Super Sonic Légend
                 ( rang le plus élevé, et faisant parti des 2000 joueurs du monde à posséder ce niveau, autant dire la
-                créme de la créme).</p>
+                créme de la créme). Je fais aussi beaucoup de jeux solo, je trouve que c'est relaxant.</p>
         </li>
         <li><span>Les Animations Japonaise</span>
-        <p>Les Animations Japonaise sont dans ma vie aussi loin que je m'en souviens, Dragon Ball, Naruto, Fairy Tail, One Piece etc et j'en passe de meilleurs. c'est aussi ce qui fait une parti
-        de ma force, car je prend exemple de certains heros de manga qui perdent jamais leur détermination et leur motivation.</p>
+        <p>Les Animations Japonaise sont dans ma vie aussi loin que je m'en souviens, Dragon Ball, Naruto, Fairy Tail, One Piece et j'en passe des meilleurs. c'est aussi ce qui fait une parti
+        de ma force, car je prend exemple de certains heros de manga qui perdent jamais leurs déterminations et leur motivations.</p>
         </li>
     </ul>
 </section>

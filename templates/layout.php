@@ -8,6 +8,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="../public/css/main.css">
     <link rel="stylesheet" href="../public/css/normalize-8.0.1.css">
+    <script src="https://kit.fontawesome.com/d68005ea77.js" crossorigin="anonymous"></script>
 </head>
 <body>
 
