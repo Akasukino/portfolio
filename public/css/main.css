@@ -112,3 +112,13 @@ span{
     text-align: center;
     color:mediumblue;
 }
+.form_style{
+    border: 2px solid lime;
+    margin: 1% 40%;
+}
+.form_style div{
+    padding: 2%;
+}
+.form_style label{
+    display: block;
+}

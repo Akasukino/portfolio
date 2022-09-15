@@ -3,7 +3,7 @@
         <div class="nav-site-footer">
             <h3>Navigation sur le site</h3>
             <a href="../../index.php"><i class="fa-solid fa-house"></i></a>
-<!--            <a href=""><i class="fa-solid fa-envelope"></i></a>-->
+            <a href="<?= PATH_URI_FORM?>contact.php"><i class="fa-solid fa-envelope"></i></a>
         </div>
         <div class="nav-social-footer">
             <h3>Liens Réseaux</h3>
